@@ -64,7 +64,7 @@ export default function HomeClient({ posts }: HomeProps) {
                 <p className="text-xs text-slate-400 mt-1 font-medium font-sans">
                   Live market data via CoinGecko, updated every minute.
                 </p>
-                <meta name="profiton-domain-verification" content="fe855b3578dab1ab12a947c131e812ce0cb484259665d92437980a896ba88e5d" />
+              <meta name="profiton-domain-verification" content="9533f30d2e1f8a276ca04a8f4d422060465b03f2c49a1a2da92e946800ec37c1" />
               </div>
               <div className="text-xs font-mono font-bold text-slate-500 bg-slate-950 border border-slate-900 px-3.5 py-2 rounded-lg flex items-center gap-1.5 select-none shadow-inner">
                 <span className="h-2 w-2 rounded-full bg-emerald-400 animate-pulse"></span>
