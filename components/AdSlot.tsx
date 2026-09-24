@@ -9,12 +9,7 @@ import { useEffect, useRef } from 'react';
 export const CUSTOM_AD_CODES: Record<string, string> = {
   "ad-header-banner": `
     <center><meta name="profiton-domain-verification" content="fe855b3578dab1ab12a947c131e812ce0cb484259665d92437980a896ba88e5d" /></div>
-<div><iframe 
-  width="200" 
-  height="100" 
-  sandbox="allow-same-origin allow-scripts allow-popups allow-forms" 
-  src="https://fv.leawillfrabbit.com/iWCcphMBKe3/154515">
-</iframe><div></div></div>
+
 <br>
 </div></center>
   `,
